@@ -1,3 +1,5 @@
+Version 1.1.0 also support email + some bug fixes.
+
 **What you need:** Google Chrome.
 
 **Install from a folder (if you received a zip/gzip):**
